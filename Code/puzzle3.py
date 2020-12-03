@@ -4,7 +4,7 @@
 # PART 1 
 
 #we read the given input splitting them by newlines ('\n')
-data = open("E:\Scripts\Python Scripts\AOC\Advent of code 2020\Code\input_d3.txt").read().strip().split('\n')
+data = open("..\Code\input_d3.txt").read().strip().split('\n')
 # print(data)
 
 curr_x = 0
