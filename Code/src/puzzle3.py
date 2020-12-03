@@ -4,7 +4,11 @@
 # PART 1 
 
 #we read the given input splitting them by newlines ('\n')
+<<<<<<< HEAD:Code/src/puzzle3.py
 data = open("E:\Scripts\Python Scripts\AOC\Advent of code 2020\Code\input\input_d3.txt").read().strip().split('\n')
+=======
+data = open("..\Code\input_d3.txt").read().strip().split('\n')
+>>>>>>> 28b5bf30b4dacc2f7a21d9500020bb1eb6675c82:Code/puzzle3.py
 # print(data)
 
 curr_x = 0
