@@ -4,7 +4,7 @@
 # PART 1 
 
 #we read the given input splitting them by newlines ('\n')
-data = open("..\Code\input_d3.txt").read().strip().split('\n')
+data = open("..\Code\input\input_d3.txt").read().strip().split('\n')
 
 # print(data)
 
