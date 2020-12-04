@@ -3,7 +3,7 @@
 
 # Parsing input and processing it to make it readable by functions
 # the data is split into a key-val pair dict() finally, along with each pass
-raw_data = open("E:\Scripts\Python Scripts\AOC\Advent of code 2020\Code\input\input_d4.txt").read(
+raw_data = open("..\Code\input\input_d4.txt").read(
 ).strip().split("\n")
 
 for i in range(len(raw_data)):
