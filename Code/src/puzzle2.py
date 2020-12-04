@@ -3,7 +3,15 @@
 
 import collections
 
+<<<<<<< HEAD
 with open("E:\Scripts\Python Scripts\AOC\Advent of code 2020\Code\input\input_d2.txt", "r") as f:
+=======
+<<<<<<< HEAD:Code/src/puzzle2.py
+with open("..\Code\input\input_d2.txt", "r") as f:
+=======
+with open("..\Code\input_d2.txt", "r") as f:
+>>>>>>> 28b5bf30b4dacc2f7a21d9500020bb1eb6675c82:Code/puzzle2.py
+>>>>>>> a9084458cb9add71cafd2b0b236bdb923ffc4fb3
     dataset= list(f.readlines())
 
 # solution for Part 1 of the problem
