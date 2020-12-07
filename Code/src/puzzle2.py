@@ -3,7 +3,6 @@
 
 import collections
 
-
 with open("..\Code\input\input_d2.txt", "r") as f:
     dataset= list(f.readlines())
 

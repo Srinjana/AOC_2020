@@ -4,7 +4,10 @@
 # PART 1 
 
 #we read the given input splitting them by newlines ('\n')
+<<<<<<< HEAD
 
+=======
+>>>>>>> d530f15fc0809c9ded7d4afde8f7fb076a52f8c9
 data = open("..\Code\input\input_d3.txt").read().strip().split('\n')
 
 # print(data)
